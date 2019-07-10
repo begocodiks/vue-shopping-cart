@@ -1,4 +1,4 @@
-# coppel-training
+# Vue Shopping cart
 
 ## Project setup
 ```
